@@ -1,0 +1,15 @@
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/bin/Debug/net6.0/Lab_4
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/bin/Debug/net6.0/Lab_4.deps.json
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/bin/Debug/net6.0/Lab_4.runtimeconfig.json
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/bin/Debug/net6.0/Lab_4.dll
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/bin/Debug/net6.0/Lab_4.pdb
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.csproj.AssemblyReference.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.AssemblyInfoInputs.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.AssemblyInfo.cs
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.csproj.CoreCompileInputs.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.dll
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/refint/Lab_4.dll
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.pdb
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/Lab_4.genruntimeconfig.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab4/Lab_4/Lab_4/obj/Debug/net6.0/ref/Lab_4.dll

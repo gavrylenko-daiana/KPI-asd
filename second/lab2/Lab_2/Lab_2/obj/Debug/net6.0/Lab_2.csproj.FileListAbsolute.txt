@@ -1,0 +1,15 @@
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/bin/Debug/net6.0/Lab_2
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/bin/Debug/net6.0/Lab_2.deps.json
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/bin/Debug/net6.0/Lab_2.runtimeconfig.json
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/bin/Debug/net6.0/Lab_2.dll
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/bin/Debug/net6.0/Lab_2.pdb
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.csproj.AssemblyReference.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.AssemblyInfoInputs.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.AssemblyInfo.cs
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.csproj.CoreCompileInputs.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.dll
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/refint/Lab_2.dll
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.pdb
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/Lab_2.genruntimeconfig.cache
+/Users/dayanagavrylenko/КПІ/2SEMESTER/ASD2/lab2/Lab_2/Lab_2/obj/Debug/net6.0/ref/Lab_2.dll
